@@ -1,6 +1,6 @@
 # sushant-demo
 This is my first git Repository
 <br>
-Author-Sushant Waghmare
+Author-Sushant  
 add cv
 
